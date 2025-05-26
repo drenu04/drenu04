@@ -15,8 +15,6 @@
 **Embedded:** Arduino | ESP32 | Sensors | LTspice | MATLAB  
 **Tools & Cloud:** Git | GitHub | VS Code | Power BI | Excel  
 
----
-
 ## 🏆 Achievements
 
 - 🥇 Selected as **sole representative of IIITDMJ** at **Startup Mahakumbh 2025**
