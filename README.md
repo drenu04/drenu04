@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm DHARAVATH RENU!
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=yourusername" />
-
 ## 🧠 About Me
 
 - 🎓 BTech student at IIITDM Jabalpur (ECE)
