@@ -5,8 +5,7 @@
 ## 🧠 About Me
 
 - 🎓 BTech student at IIITDM Jabalpur (ECE)
-- 🚀 Passionate about Embedded Systems | AI | Full-Stack Web Dev
-- 
+- 🚀 Passionate about Software Development | Embedded Systems | AI | Full-Stack Web Dev
 ## 🔗🛠️ Tech Stack
 
 **Languages:** C | Python | JavaScript | SQL  
