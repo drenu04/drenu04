@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm DHARAVATH RENU!
+# Hi there, I'm DHARAVATH RENU!
 
 ## 🧠 About Me
 -  BTech student at IIITDM Jabalpur (ECE)  
@@ -9,7 +9,7 @@
 **Databases:** MySQL Server | SQL | PostgreSQL | MongoDB  
 **Web:** HTML | CSS | React.js  
 **Backend:** Node.js | PHP  
-**Embedded:** Arduino | ESP32 | Sensors | LTspice | MATLAB
+**Embedded:** Arduino | ESP32 | Sensors | LTspice | MATLAB  
 **VLSI & ASIC Design:** CMOS Technology | ASIC Design Flow | Layout Design | Timing Analysis  
 **Tools & Cloud:** Git | GitHub | VS Code | Power BI | Excel  
 
@@ -18,4 +18,3 @@
 -  Received the prestigious **USRF 2025 Fellowship from Amity University**, distinguishing myself in the top **1%** of **3000+** candidates  
 -  Secured **Elite Certificate (Top 20%)** in **System Design Through Verilog (NPTEL)** – IIT Guwahati  
 -  Our project **"Sakhiya"** recognized as an **Academic Excellence Project**
-
